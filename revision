@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 3
+revno: 4
 committer: Aaron Bentley <aaron.bentley@utoronto.ca>
 branch nick: bzr-git
-timestamp: Tue 2006-11-28 20:49:38 -0500
+timestamp: Tue 2006-11-28 21:41:02 -0500
 message:
-  Avoid ugly errors opening working trees
+  Supply a BranchConfig instead of a Transport
