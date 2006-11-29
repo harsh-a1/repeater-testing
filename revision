@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 5
+revno: 6
 committer: Aaron Bentley <aaron.bentley@utoronto.ca>
 branch nick: bzr-git
-timestamp: Tue 2006-11-28 22:16:57 -0500
+timestamp: Tue 2006-11-28 23:36:05 -0500
 message:
-  Switch to using GitModel
+  Cache revisions from graph_ancestry_with_ghosts
