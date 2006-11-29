@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 7
+revno: 8
 committer: Aaron Bentley <aaron.bentley@utoronto.ca>
 branch nick: bzr-git
-timestamp: Tue 2006-11-28 23:55:10 -0500
+timestamp: Wed 2006-11-29 01:22:17 -0500
 message:
-  open_branch fails in non-branches
+  Work on log
