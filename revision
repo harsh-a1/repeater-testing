@@ -1,0 +1,7 @@
+------------------------------------------------------------
+revno: 2
+committer: Aaron Bentley <aaron.bentley@utoronto.ca>
+branch nick: bzr-git
+timestamp: Tue 2006-11-28 20:39:17 -0500
+message:
+  Get viz working, with new -r support
