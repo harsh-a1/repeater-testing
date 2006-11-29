@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 6
+revno: 7
 committer: Aaron Bentley <aaron.bentley@utoronto.ca>
 branch nick: bzr-git
-timestamp: Tue 2006-11-28 23:36:05 -0500
+timestamp: Tue 2006-11-28 23:55:10 -0500
 message:
-  Cache revisions from graph_ancestry_with_ghosts
+  open_branch fails in non-branches
