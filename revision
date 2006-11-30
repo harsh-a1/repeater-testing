@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 9
+revno: 10
 committer: Aaron Bentley <aaron.bentley@utoronto.ca>
 branch nick: bzr-git
-timestamp: Wed 2006-11-29 20:32:31 -0500
+timestamp: Thu 2006-11-30 01:11:35 -0500
 message:
-  Don't open a GitBzrDir if no .git directory
+  Fix bugs in log/revision_graph API
