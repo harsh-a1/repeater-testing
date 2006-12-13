@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 10
+revno: 11
 committer: Aaron Bentley <aaron.bentley@utoronto.ca>
 branch nick: bzr-git
-timestamp: Thu 2006-11-30 01:11:35 -0500
+timestamp: Wed 2006-12-13 02:34:53 -0500
 message:
-  Fix bugs in log/revision_graph API
+  get_revision_graph doesn't require a head revision
