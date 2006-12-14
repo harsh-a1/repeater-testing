@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 11
+revno: 12
 committer: Aaron Bentley <aaron.bentley@utoronto.ca>
 branch nick: bzr-git
-timestamp: Wed 2006-12-13 02:34:53 -0500
+timestamp: Thu 2006-12-14 03:00:36 -0500
 message:
-  get_revision_graph doesn't require a head revision
+  Get checkout of git repos working (though a bit crackful)
