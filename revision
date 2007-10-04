@@ -1,9 +1,7 @@
 ------------------------------------------------------------
-revno: 14 [merge]
+revno: 15
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: trunk
-timestamp: Thu 2007-10-04 21:52:03 +0200
+timestamp: Fri 2007-10-05 00:16:19 +0200
 message:
-  Import simple testsuite.
-------------------------------------------------------------
-Use --include-merged or -n0 to see merged revisions.
+  Fix formatting.
