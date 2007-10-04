@@ -1,7 +1,9 @@
 ------------------------------------------------------------
-revno: 13
-committer: Robert Collins <robertc@robertcollins.net>
+revno: 14 [merge]
+committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: trunk
-timestamp: Tue 2007-05-01 19:17:01 +1000
+timestamp: Thu 2007-10-04 21:52:03 +0200
 message:
-  Workaround breakage with bazaar.launchpad.net.
+  Import simple testsuite.
+------------------------------------------------------------
+Use --include-merged or -n0 to see merged revisions.
