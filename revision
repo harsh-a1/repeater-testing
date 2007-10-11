@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 15
+revno: 16
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: trunk
-timestamp: Fri 2007-10-05 00:16:19 +0200
+timestamp: Thu 2007-10-11 12:57:33 +0200
 message:
-  Fix formatting.
+  Fix bzr-git for use with current bzr.dev.
