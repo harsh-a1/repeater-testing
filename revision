@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 17
-committer: Jelmer Vernooij <jelmer@samba.org>
-branch nick: trunk
-timestamp: Fri 2007-10-12 14:49:45 +0200
+revno: 18
+committer: John Arbash Meinel <john@arbash-meinel.com>
+branch nick: git
+timestamp: Thu 2007-11-08 18:44:31 -0500
 message:
-  Fix formatting, implement Repository.revision_trees().
+  Start splitting up the Git{Branch,Dir,Repository} into separate modules, etc.
