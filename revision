@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 19
+revno: 20
 committer: John Arbash Meinel <john@arbash-meinel.com>
 branch nick: git
-timestamp: Thu 2007-11-08 23:17:01 -0500
+timestamp: Thu 2007-11-08 23:40:42 -0500
 message:
-  More refactoring. Add some direct tests for GitModel.
+  All tests are passing again
