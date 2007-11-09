@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 23
+revno: 24
 committer: John Arbash Meinel <john@arbash-meinel.com>
 branch nick: git
-timestamp: Fri 2007-11-09 10:53:24 -0500
+timestamp: Fri 2007-11-09 10:56:23 -0500
 message:
-  Clean up the builder, start using it for big speed gains.
+  Use the builder in test_model as well to shave off a few more seconds.
