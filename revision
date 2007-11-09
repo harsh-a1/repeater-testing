@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 20
+revno: 21
 committer: John Arbash Meinel <john@arbash-meinel.com>
 branch nick: git
-timestamp: Thu 2007-11-08 23:40:42 -0500
+timestamp: Thu 2007-11-08 23:53:15 -0500
 message:
-  All tests are passing again
+  Fix Repository.get_revision_graph()
