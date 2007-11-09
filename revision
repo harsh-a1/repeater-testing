@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 22
+revno: 23
 committer: John Arbash Meinel <john@arbash-meinel.com>
 branch nick: git
-timestamp: Fri 2007-11-09 01:08:11 -0500
+timestamp: Fri 2007-11-09 10:53:24 -0500
 message:
-  Initial work on a GitCommitBuilder to make the test suite run in no-glacial time.
+  Clean up the builder, start using it for big speed gains.
