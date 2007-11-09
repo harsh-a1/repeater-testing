@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 21
+revno: 22
 committer: John Arbash Meinel <john@arbash-meinel.com>
 branch nick: git
-timestamp: Thu 2007-11-08 23:53:15 -0500
+timestamp: Fri 2007-11-09 01:08:11 -0500
 message:
-  Fix Repository.get_revision_graph()
+  Initial work on a GitCommitBuilder to make the test suite run in no-glacial time.
