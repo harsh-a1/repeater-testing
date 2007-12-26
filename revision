@@ -1,7 +1,8 @@
 ------------------------------------------------------------
-revno: 24
-committer: John Arbash Meinel <john@arbash-meinel.com>
-branch nick: git
-timestamp: Fri 2007-11-09 10:56:23 -0500
+revno: 25
+committer: David Allouche <ddaa@canonical.com>
+branch nick: bzr-git
+timestamp: Wed 2007-12-26 16:18:38 +0100
 message:
-  Use the builder in test_model as well to shave off a few more seconds.
+  Fix GitBranchBuilder for the new hardlink-breaking behaviour of 
+  --export-marks.
