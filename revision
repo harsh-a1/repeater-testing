@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 26
+revno: 27
 committer: David Allouche <ddaa@canonical.com>
 branch nick: bzr-git
-timestamp: Wed 2007-12-26 21:07:15 +0100
+timestamp: Wed 2007-12-26 21:13:49 +0100
 message:
-  stgit dependency was removed already
+  Flat is better than nested, remove the gitlib hierarchy.
