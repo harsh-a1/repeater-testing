@@ -1,8 +1,7 @@
 ------------------------------------------------------------
-revno: 25
+revno: 26
 committer: David Allouche <ddaa@canonical.com>
 branch nick: bzr-git
-timestamp: Wed 2007-12-26 16:18:38 +0100
+timestamp: Wed 2007-12-26 21:07:15 +0100
 message:
-  Fix GitBranchBuilder for the new hardlink-breaking behaviour of 
-  --export-marks.
+  stgit dependency was removed already
