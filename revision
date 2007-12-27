@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 30
+revno: 31
 committer: David Allouche <ddaa@canonical.com>
-branch nick: bzr-git
-timestamp: Thu 2007-12-27 19:36:24 +0100
+branch nick: bzr-git.quickfixes
+timestamp: Thu 2007-12-27 20:38:49 +0100
 message:
-  Rename GitRepository.parse_rev to ._parse_rev.
+  GitBranchBuilder.set_file returns None, do not save its return value.
