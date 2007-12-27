@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 27
+revno: 28
 committer: David Allouche <ddaa@canonical.com>
 branch nick: bzr-git
-timestamp: Wed 2007-12-26 21:13:49 +0100
+timestamp: Thu 2007-12-27 18:04:41 +0100
 message:
-  Flat is better than nested, remove the gitlib hierarchy.
+  Add ignores for Eclipse.
