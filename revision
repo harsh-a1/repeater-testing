@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 28
+revno: 29
 committer: David Allouche <ddaa@canonical.com>
 branch nick: bzr-git
-timestamp: Thu 2007-12-27 18:04:41 +0100
+timestamp: Thu 2007-12-27 19:30:45 +0100
 message:
-  Add ignores for Eclipse.
+  Smoke test for GitRepository.get_revision, and corresponding fixes.
