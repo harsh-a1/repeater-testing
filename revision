@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 33
+revno: 34
 committer: David Allouche <ddaa@canonical.com>
 branch nick: bzr-git
-timestamp: Fri 2007-12-28 01:30:51 +0100
+timestamp: Fri 2007-12-28 01:33:44 +0100
 message:
-  Fix GitBranchBuilder to use refs/heads/master instead of refs/head/master.
+  GitBranchBuilder.reset()
