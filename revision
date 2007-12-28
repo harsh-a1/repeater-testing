@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 39
+revno: 40
 committer: David Allouche <ddaa@canonical.com>
 branch nick: bzr-git
-timestamp: Fri 2007-12-28 21:15:51 +0100
+timestamp: Fri 2007-12-28 21:28:47 +0100
 message:
-  Black-box text for "bzr log" in a git tree. Further simplification of GitRevisionTree.
+  GitRepository.supports_rich_root() => False
