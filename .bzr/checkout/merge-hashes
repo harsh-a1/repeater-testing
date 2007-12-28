@@ -1,3 +1,9 @@
 BZR merge-modified list format 1
+file_id: test_model.py-20071109031625-vi84303d1n5gnha1-2
+hash: 1a2e6fdbe189ff6f1233d75e2fcb397f97126243
+
+file_id: model.py-20071109031625-vi84303d1n5gnha1-1
+hash: 391237daa2ebb274c560d7fb3cec355f86d64d17
+
 file_id: git_repository.py-20071108234408-ygidvy5hviixghsd-2
-hash: 8d9968d56c65f796ee2b9ccedd1a6bf94492e4b5
+hash: ed4483588d43b7f2c35ca8b912e074db3cfe95d4
