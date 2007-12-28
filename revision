@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 36
+revno: 37
 committer: David Allouche <ddaa@canonical.com>
 branch nick: bzr-git
-timestamp: Fri 2007-12-28 05:03:12 +0100
+timestamp: Fri 2007-12-28 05:10:43 +0100
 message:
-  GitBranchBuilder now handles file names with newlines correctly.
+  Reimplement GitModel.get_inventory to retrieve the full inventory in a single git run.
