@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 42
+revno: 43
 committer: David Allouche <ddaa@canonical.com>
-branch nick: bzr-git
-timestamp: Fri 2007-12-28 22:33:53 +0100
+branch nick: bzr-git.pull
+timestamp: Sat 2007-12-29 22:35:28 +0100
 message:
-  Rename GitModel.ancestry to .get_revision_graph.
+  Ultra-experimental support for "bzr pull". No test. No sanity.
