@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 43
+revno: 44
 committer: David Allouche <ddaa@canonical.com>
 branch nick: bzr-git.pull
-timestamp: Sat 2007-12-29 22:35:28 +0100
+timestamp: Sat 2007-12-29 23:02:30 +0100
 message:
-  Ultra-experimental support for "bzr pull". No test. No sanity.
+  Remove some experimental cruft.
