@@ -1,9 +1,9 @@
 ------------------------------------------------------------
-revno: 47 [merge]
+revno: 48 [merge]
 committer: David Allouche <ddaa@canonical.com>
 branch nick: bzr-git.pull
-timestamp: Sun 2007-12-30 06:46:00 +0100
+timestamp: Sun 2007-12-30 14:35:12 +0100
 message:
-  Merge from my stable branch.
+  Almost make lightweight checkout work, from abentley.
 ------------------------------------------------------------
 Use --include-merged or -n0 to see merged revisions.
