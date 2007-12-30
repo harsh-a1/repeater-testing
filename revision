@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 44
+revno: 45
 committer: David Allouche <ddaa@canonical.com>
 branch nick: bzr-git.pull
-timestamp: Sat 2007-12-29 23:02:30 +0100
+timestamp: Sun 2007-12-30 05:33:51 +0100
 message:
-  Remove some experimental cruft.
+  More performance hacking, introduce sqlite cache, escape characters in commits that break serializers.
