@@ -1,7 +1,9 @@
 ------------------------------------------------------------
-revno: 46
+revno: 47 [merge]
 committer: David Allouche <ddaa@canonical.com>
 branch nick: bzr-git.pull
-timestamp: Sun 2007-12-30 06:43:44 +0100
+timestamp: Sun 2007-12-30 06:46:00 +0100
 message:
-  Only keep symlink blobs in memory. Add some clever inventory-based caching so modified files need not be read twice when pulling.
+  Merge from my stable branch.
+------------------------------------------------------------
+Use --include-merged or -n0 to see merged revisions.
