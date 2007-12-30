@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 45
+revno: 46
 committer: David Allouche <ddaa@canonical.com>
 branch nick: bzr-git.pull
-timestamp: Sun 2007-12-30 05:33:51 +0100
+timestamp: Sun 2007-12-30 06:43:44 +0100
 message:
-  More performance hacking, introduce sqlite cache, escape characters in commits that break serializers.
+  Only keep symlink blobs in memory. Add some clever inventory-based caching so modified files need not be read twice when pulling.
