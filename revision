@@ -1,9 +1,8 @@
 ------------------------------------------------------------
-revno: 48 [merge]
-committer: David Allouche <ddaa@canonical.com>
-branch nick: bzr-git.pull
-timestamp: Sun 2007-12-30 14:35:12 +0100
+revno: 49
+committer: Jelmer Vernooij <jelmer@samba.org>
+branch nick: trunk
+timestamp: Tue 2008-01-08 22:46:29 +0100
 message:
-  Almost make lightweight checkout work, from abentley.
-------------------------------------------------------------
-Use --include-merged or -n0 to see merged revisions.
+  Add warnings when sqlite3 is not available. Add support for using 
+  python-sqlite2 when using python < 2.5.
