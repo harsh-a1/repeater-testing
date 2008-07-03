@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 50
+revno: 51
 committer: Jelmer Vernooij <jelmer@samba.org>
-branch nick: trunk
-timestamp: Wed 2008-01-09 02:56:28 +0100
+branch nick: ddaa
+timestamp: Thu 2008-07-03 19:07:38 +0200
 message:
-  add setup.py
+  Fix copyright.
