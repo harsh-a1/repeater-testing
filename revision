@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 54
+revno: 55
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: trunk
-timestamp: Thu 2008-07-03 19:14:04 +0200
+timestamp: Sat 2008-07-26 00:45:52 +0200
 message:
-  Remove obsolete installation instructions.
+  Add Makefile.
