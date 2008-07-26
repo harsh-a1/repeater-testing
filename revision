@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 85
+revno: 86
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: trunk
-timestamp: Sat 2008-07-26 20:12:12 +0200
+timestamp: Sat 2008-07-26 20:12:31 +0200
 message:
-  Add test for creating new tags.
+  Clearer error when setting tags.
