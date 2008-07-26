@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 67
+revno: 68
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: trunk
-timestamp: Sat 2008-07-26 17:41:07 +0200
+timestamp: Sat 2008-07-26 17:44:11 +0200
 message:
-  Implement Branch.get_stacked_on_url.
+  Add blackbox test for info.
