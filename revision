@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 71
+revno: 72
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: trunk
-timestamp: Sat 2008-07-26 17:50:48 +0200
+timestamp: Sat 2008-07-26 17:54:48 +0200
 message:
-  Implement GitRepositoryFormat.get_format_description.
+  Implement Branch.get_physical_lock_status.
