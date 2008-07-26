@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 82
+revno: 83
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: trunk
-timestamp: Sat 2008-07-26 20:05:55 +0200
+timestamp: Sat 2008-07-26 20:06:05 +0200
 message:
-  Support listing tags.
+  Add blackbox test for 'bzr tags'
