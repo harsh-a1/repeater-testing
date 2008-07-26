@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 62
+revno: 63
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: trunk
-timestamp: Sat 2008-07-26 16:36:03 +0200
+timestamp: Sat 2008-07-26 17:30:20 +0200
 message:
-  Remove unnecessary caching.
+  Ignore decoding errors since git doesn't support storing encoding.
