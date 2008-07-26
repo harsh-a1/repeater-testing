@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 87
+revno: 88
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: trunk
-timestamp: Sat 2008-07-26 20:46:05 +0200
+timestamp: Sat 2008-07-26 20:58:29 +0200
 message:
-  Remove cache usage.
+  Fix RevisionTree.get_file_text().
