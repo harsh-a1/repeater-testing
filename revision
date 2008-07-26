@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 56
+revno: 57
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: trunk
-timestamp: Sat 2008-07-26 00:56:43 +0200
+timestamp: Sat 2008-07-26 02:24:24 +0200
 message:
-  Switch to using GitPython rather than our own in-house stuff.
+  Fix more tests.
