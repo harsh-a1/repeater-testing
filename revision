@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 60
+revno: 61
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: trunk
-timestamp: Sat 2008-07-26 15:53:26 +0200
+timestamp: Sat 2008-07-26 15:55:40 +0200
 message:
-  Support signature functions.
+  Fix tests.
