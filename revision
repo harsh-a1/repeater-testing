@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 81
+revno: 82
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: trunk
-timestamp: Sat 2008-07-26 18:30:56 +0200
+timestamp: Sat 2008-07-26 20:05:55 +0200
 message:
-  Add installation instructions for git-python.
+  Support listing tags.
