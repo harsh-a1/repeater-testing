@@ -1,6 +1,15 @@
 BZR merge-modified list format 1
-file_id: git_branch.py-20071108230535-su8dxk529f4uk9fx-2
-hash: 72b59a23758f605d9860484f3a02fd3819ed0aff
+file_id: git_workingtree.py-20080726200434-agakdygzl62md449-1
+hash: 95434387dd43723a91485388d28c8c3cad60da29
 
 file_id: test_blackbox.py-20071228193717-18el6d8x4qddug3w-1
-hash: 6bcb844f64b608c601c45b3d97b4383ce7d29557
+hash: 3a618197ca5fef8e7975dd1a382f25be6e389ab3
+
+file_id: test_git_dir.py-20071108234408-ygidvy5hviixghsd-4
+hash: b35707ad5e896638e9f1d6ff637df5bc701a131d
+
+file_id: git_dir.py-20071108234408-ygidvy5hviixghsd-1
+hash: c766ba1a441ee93f52389b6998d21daf1dad14f5
+
+file_id: git_repository.py-20071108234408-ygidvy5hviixghsd-2
+hash: d3ee65cd85bc8cc66ddb6ee098716eaea12a64d9
