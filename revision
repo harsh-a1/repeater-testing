@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 69
+revno: 70
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: trunk
-timestamp: Sat 2008-07-26 17:46:58 +0200
+timestamp: Sat 2008-07-26 17:48:45 +0200
 message:
-  Implement GitBzrDirFormat.get_format_description.
+  Implement GitBranchFormat.get_format_description.
