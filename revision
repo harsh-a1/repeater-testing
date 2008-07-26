@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 77
+revno: 78
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: trunk
-timestamp: Sat 2008-07-26 18:10:53 +0200
+timestamp: Sat 2008-07-26 18:19:26 +0200
 message:
-  Handle NULL_REVISION in get_parent_map.
+  Add blackbox test for ls.
