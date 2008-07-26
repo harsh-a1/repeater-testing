@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 61
+revno: 62
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: trunk
-timestamp: Sat 2008-07-26 15:55:40 +0200
+timestamp: Sat 2008-07-26 16:36:03 +0200
 message:
-  Fix tests.
+  Remove unnecessary caching.
