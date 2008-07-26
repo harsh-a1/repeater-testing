@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 66
+revno: 67
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: trunk
-timestamp: Sat 2008-07-26 17:40:15 +0200
+timestamp: Sat 2008-07-26 17:41:07 +0200
 message:
-  Implement branch.get_parent().
+  Implement Branch.get_stacked_on_url.
