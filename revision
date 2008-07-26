@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 86
+revno: 87
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: trunk
-timestamp: Sat 2008-07-26 20:12:31 +0200
+timestamp: Sat 2008-07-26 20:46:05 +0200
 message:
-  Clearer error when setting tags.
+  Remove cache usage.
