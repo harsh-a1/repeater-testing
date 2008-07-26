@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 78
+revno: 79
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: trunk
-timestamp: Sat 2008-07-26 18:19:26 +0200
+timestamp: Sat 2008-07-26 18:23:29 +0200
 message:
-  Add blackbox test for ls.
+  Implement RevisionTree.get_revision_id().
