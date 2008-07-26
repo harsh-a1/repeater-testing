@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 88
+revno: 89
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: trunk
-timestamp: Sat 2008-07-26 20:58:29 +0200
+timestamp: Sat 2008-07-26 21:13:45 +0200
 message:
-  Fix RevisionTree.get_file_text().
+  Support sprouting branches.
