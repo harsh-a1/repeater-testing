@@ -1,8 +1,7 @@
 ------------------------------------------------------------
-revno: 90
-fixes bug: https://launchpad.net/bugs/182159
+revno: 91
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: trunk
-timestamp: Sat 2008-07-26 22:56:51 +0200
+timestamp: Mon 2008-07-28 03:43:48 +0200
 message:
-  Basic support for opening working trees.
+  Import VirtualVersionedFiles.
