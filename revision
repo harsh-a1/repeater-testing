@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 97
+revno: 98
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: trunk
-timestamp: Sat 2008-08-23 15:53:48 +0200
+timestamp: Sat 2008-08-23 19:46:07 +0200
 message:
-  use mapping object.
+  Remove unused import.
