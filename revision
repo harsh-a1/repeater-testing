@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 93
+revno: 94
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: trunk
-timestamp: Sat 2008-08-23 13:35:28 +0200
+timestamp: Sat 2008-08-23 15:12:10 +0200
 message:
-  Ignore .plugins dir.
+  Eliminate (duplicate) git_ prefix.
