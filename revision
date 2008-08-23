@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 96
+revno: 97
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: trunk
-timestamp: Sat 2008-08-23 15:18:04 +0200
+timestamp: Sat 2008-08-23 15:53:48 +0200
 message:
-  Fix branch.
+  use mapping object.
