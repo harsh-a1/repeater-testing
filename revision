@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 92
+revno: 93
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: trunk
-timestamp: Sat 2008-08-23 13:34:36 +0200
+timestamp: Sat 2008-08-23 13:35:28 +0200
 message:
-  Update versionedfiles.
+  Ignore .plugins dir.
