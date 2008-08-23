@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 94
+revno: 95
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: trunk
-timestamp: Sat 2008-08-23 15:12:10 +0200
+timestamp: Sat 2008-08-23 15:14:41 +0200
 message:
-  Eliminate (duplicate) git_ prefix.
+  Fix info.
