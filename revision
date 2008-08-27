@@ -1,7 +1,9 @@
 ------------------------------------------------------------
-revno: 98
+revno: 99 [merge]
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: trunk
-timestamp: Sat 2008-08-23 19:46:07 +0200
+timestamp: Wed 2008-08-27 21:39:49 +0200
 message:
-  Remove unused import.
+  Merge foreign branch utility code.
+------------------------------------------------------------
+Use --include-merged or -n0 to see merged revisions.
