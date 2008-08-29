@@ -1,9 +1,9 @@
 ------------------------------------------------------------
-revno: 103 [merge]
+revno: 104 [merge]
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: trunk
-timestamp: Fri 2008-08-29 17:20:45 +0200
+timestamp: Fri 2008-08-29 17:58:12 +0200
 message:
-  Merge dpush changes.
+  Use bzr-foreign function names for converting between git and bzr revids.
 ------------------------------------------------------------
 Use --include-merged or -n0 to see merged revisions.
