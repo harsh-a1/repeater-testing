@@ -1,9 +1,9 @@
 ------------------------------------------------------------
-revno: 102 [merge]
+revno: 103 [merge]
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: trunk
-timestamp: Fri 2008-08-29 17:01:42 +0200
+timestamp: Fri 2008-08-29 17:20:45 +0200
 message:
-  merge versionedfiles support.
+  Merge dpush changes.
 ------------------------------------------------------------
 Use --include-merged or -n0 to see merged revisions.
