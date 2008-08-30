@@ -1,9 +1,7 @@
 ------------------------------------------------------------
-revno: 104 [merge]
+revno: 105
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: trunk
-timestamp: Fri 2008-08-29 17:58:12 +0200
+timestamp: Sat 2008-08-30 19:22:05 +0200
 message:
-  Use bzr-foreign function names for converting between git and bzr revids.
-------------------------------------------------------------
-Use --include-merged or -n0 to see merged revisions.
+  Add common function for finding git commit by bzr revid.
