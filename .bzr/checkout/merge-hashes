@@ -1,3 +1,12 @@
 BZR merge-modified list format 1
-file_id: foreign.py-20080827193306-rxeku2c2obec90c4-1
-hash: d481152787fca0a8139d0060b6a7e539cb1d431d
+file_id: git_repository.py-20071108234408-ygidvy5hviixghsd-2
+hash: 4cc5f14d1da7407f5de66a4a2ae12b1278822c44
+
+file_id: test_blackbox.py-20071228193717-18el6d8x4qddug3w-1
+hash: 10a3f24903994784790b04bcfc935bb3a92052cd
+
+file_id: git_dir.py-20071108234408-ygidvy5hviixghsd-1
+hash: b6a52936916949e1fd436b5bb88236d9c632d1f1
+
+file_id: __init__.py-20060715102359-vayyec84yioge4ok-1
+hash: d4bdf4912cdda6a6ccdcc3a146c008fcd15dd698
