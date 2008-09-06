@@ -1,7 +1,8 @@
 ------------------------------------------------------------
-revno: 108
+revno: 109
+fixes bug: https://launchpad.net/bugs/267085
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: trunk
-timestamp: Mon 2008-09-01 17:42:59 +0200
+timestamp: Sat 2008-09-06 15:42:22 +0200
 message:
-  Support bzr init --git.
+  Cope with new argument to cloning_metadir.
