@@ -1,8 +1,9 @@
 ------------------------------------------------------------
-revno: 109
-fixes bug: https://launchpad.net/bugs/267085
+revno: 110 [merge]
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: trunk
-timestamp: Sat 2008-09-06 15:42:22 +0200
+timestamp: Wed 2008-09-10 13:14:36 +0200
 message:
-  Cope with new argument to cloning_metadir.
+  import new version of bzr-foreign.
+------------------------------------------------------------
+Use --include-merged or -n0 to see merged revisions.

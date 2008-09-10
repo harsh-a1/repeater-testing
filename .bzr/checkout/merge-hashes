@@ -1,3 +1,6 @@
 BZR merge-modified list format 1
-file_id: git_dir.py-20071108234408-ygidvy5hviixghsd-1
-hash: b92d2fb9ff53e7d85c79b527a300dd2432c3aefc
+file_id: foreign.py-20080827193306-rxeku2c2obec90c4-1
+hash: 9ee86bdd4bc357eec30955d9b2f585ccff7ae2c7
+
+file_id: upgrade.py-20080909124113-1j5ajrrwjp4x7z52-1
+hash: 739c05019219b7293c2016559458a2edf5b38270
