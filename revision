@@ -1,9 +1,9 @@
 ------------------------------------------------------------
-revno: 110 [merge]
+revno: 111 [merge]
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: trunk
-timestamp: Wed 2008-09-10 13:14:36 +0200
+timestamp: Mon 2008-11-10 17:20:16 +0100
 message:
-  import new version of bzr-foreign.
+  Merge bzr-foreign.
 ------------------------------------------------------------
 Use --include-merged or -n0 to see merged revisions.
