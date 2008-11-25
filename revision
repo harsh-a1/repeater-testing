@@ -1,7 +1,9 @@
 ------------------------------------------------------------
-revno: 115
+revno: 116 [merge]
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: trunk
-timestamp: Tue 2008-11-25 04:57:40 +0100
+timestamp: Tue 2008-11-25 04:58:36 +0100
 message:
-  Pass mapping object.
+  Merge fix to use active branch.
+------------------------------------------------------------
+Use --include-merged or -n0 to see merged revisions.
