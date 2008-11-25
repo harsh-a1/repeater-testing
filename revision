@@ -1,9 +1,7 @@
 ------------------------------------------------------------
-revno: 114 [merge]
+revno: 115
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: trunk
-timestamp: Tue 2008-11-25 04:35:52 +0100
+timestamp: Tue 2008-11-25 04:57:40 +0100
 message:
-  Fix reporting of git commits in 'bzr log'.
-------------------------------------------------------------
-Use --include-merged or -n0 to see merged revisions.
+  Pass mapping object.
