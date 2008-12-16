@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 118
+revno: 119
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: dulwich
-timestamp: Wed 2008-12-17 00:38:51 +0100
+timestamp: Wed 2008-12-17 00:39:53 +0100
 message:
-  Cope with slightly different names.
+  Make API resemble that of python-git.
