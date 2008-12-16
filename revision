@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 123
+revno: 124
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: dulwich
-timestamp: Wed 2008-12-17 00:42:56 +0100
+timestamp: Wed 2008-12-17 00:44:28 +0100
 message:
-  Use central git module.
+  Add lookup_revision_id stub.
