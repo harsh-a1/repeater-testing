@@ -1,9 +1,9 @@
 ------------------------------------------------------------
-revno: 126 [merge]
+revno: 127 [merge]
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: dulwich
-timestamp: Wed 2008-12-17 00:56:15 +0100
+timestamp: Wed 2008-12-17 21:45:25 +0100
 message:
-  Merge new dulwich.
+  Merge dulwich.
 ------------------------------------------------------------
 Use --include-merged or -n0 to see merged revisions.
