@@ -1,24 +1,12 @@
 BZR merge-modified list format 1
-file_id: test_pack.py-20070330155509-9gxgkvhlc5soohay-2
-hash: 027e96257953a170e11119a86bc37be505c01319
-
-file_id: git_dir.py-20071108234408-ygidvy5hviixghsd-1
-hash: 5cdbe633d70674092be8411e20333e9c315a181e
-
-file_id: git_repository.py-20071108234408-ygidvy5hviixghsd-2
-hash: 9918b9dadc5cc644619a3d27a2d6033817aed079
+file_id: objects.py-20070325114410-siiehcb1kfkrcugj-3
+hash: af60c5cfc89cb5f1a0b3fec4cabe36f0e6890380
 
 file_id: test_objects.py-20070325114410-siiehcb1kfkrcugj-8
-hash: 7494b3fbf0fc41710072944d48eb011876082b6d
+hash: 0764f0c5db335a2986f04aeb68e65345deb53e48
 
-file_id: objects.py-20070325114410-siiehcb1kfkrcugj-3
-hash: c143b0773d049f1803e2a45657b2ccc665837725
+file_id: git_dir.py-20071108234408-ygidvy5hviixghsd-1
+hash: 49e05bef7597e19173c14152f9112ea9e65fdd04
 
-file_id: pack.py-20070330155509-9gxgkvhlc5soohay-1
-hash: 68d4b23a6fd9bb6c0b38e9be216376b04b33f2cf
-
-file_id: test_repository.py-20070325114410-siiehcb1kfkrcugj-9
-hash: 3b930bf5eeb5d7978bf7dc57efa9aedf79944a64
-
-file_id: repository.py-20070325114410-siiehcb1kfkrcugj-4
-hash: 9c3644b9fbf4d5ef3d8bf9c29a92111aa307f373
+file_id: git_repository.py-20071108234408-ygidvy5hviixghsd-2
+hash: 79d4e719dcc70395949df97ebf78eaa36bed613a
