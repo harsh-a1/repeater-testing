@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 131
+revno: 132
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: dulwich
-timestamp: Wed 2008-12-24 03:42:23 +0100
+timestamp: Wed 2008-12-24 03:55:41 +0100
 message:
-  Fix all tests but two, use rich roots by default.
+  Use parents cache, don't set author revision property if it's equal to committer.
