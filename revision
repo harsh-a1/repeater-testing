@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 133
+revno: 134
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: dulwich
-timestamp: Wed 2008-12-24 04:05:40 +0100
+timestamp: Wed 2008-12-24 05:02:18 +0100
 message:
-  Unmark as deprecated.
+  Fix get_revisions().
