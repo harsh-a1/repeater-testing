@@ -1,7 +1,9 @@
 ------------------------------------------------------------
-revno: 141
+revno: 142 [merge]
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: dulwich
-timestamp: Fri 2008-12-26 18:42:31 +0100
+timestamp: Fri 2008-12-26 18:50:58 +0100
 message:
-  Separate out local and remote fetching.
+  Merge dulwich.
+------------------------------------------------------------
+Use --include-merged or -n0 to see merged revisions.
