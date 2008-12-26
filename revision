@@ -1,9 +1,7 @@
 ------------------------------------------------------------
-revno: 137 [merge]
+revno: 138
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: dulwich
-timestamp: Fri 2008-12-26 14:54:09 +0100
+timestamp: Fri 2008-12-26 16:33:04 +0100
 message:
-  Merge new dulwich.
-------------------------------------------------------------
-Use --include-merged or -n0 to see merged revisions.
+  Add initial infrastructure for accessing remote git repositories.
