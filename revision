@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 140
+revno: 141
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: dulwich
-timestamp: Fri 2008-12-26 18:17:53 +0100
+timestamp: Fri 2008-12-26 18:42:31 +0100
 message:
-  Support negotiating with remote git repository and receiving pack.
+  Separate out local and remote fetching.
