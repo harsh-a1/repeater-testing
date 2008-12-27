@@ -1,9 +1,7 @@
 ------------------------------------------------------------
-revno: 142 [merge]
+revno: 143
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: dulwich
-timestamp: Fri 2008-12-26 18:50:58 +0100
+timestamp: Sat 2008-12-27 01:11:39 +0100
 message:
-  Merge dulwich.
-------------------------------------------------------------
-Use --include-merged or -n0 to see merged revisions.
+  Reoncile InterGitRepository objects.
