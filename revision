@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 150
+revno: 151
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: dulwich
-timestamp: Sun 2008-12-28 16:14:42 +0100
+timestamp: Sun 2008-12-28 16:36:02 +0100
 message:
-  Abstract away file id generation.
+  Support converting git objects to bzr objects.
