@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 149
+revno: 150
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: dulwich
-timestamp: Sun 2008-12-28 16:11:59 +0100
+timestamp: Sun 2008-12-28 16:14:42 +0100
 message:
-  Raise proper NoSuchRevision exception.
+  Abstract away file id generation.
