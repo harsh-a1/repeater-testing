@@ -1,9 +1,3 @@
 BZR merge-modified list format 1
-file_id: remote.py-20081226152524-xw12xy2t2d2yc3t3-1
-hash: 3ab38a54e292a51079ee7b7a639694e3ee300c6d
-
-file_id: __init__.py-20070325114410-siiehcb1kfkrcugj-2
-hash: a14d80cf7b0d88cd083a85dee8e90d8c1332c637
-
 file_id: git_dir.py-20071108234408-ygidvy5hviixghsd-1
-hash: 72f9d47fe4f49dadfe82c746d98d258db1e313f1
+hash: 97c4add1904240b346047a9b44aaf40159ae87db

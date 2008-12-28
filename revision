@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 155
+revno: 156
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: dulwich
-timestamp: Sun 2008-12-28 19:04:44 +0100
+timestamp: Sun 2008-12-28 19:13:18 +0100
 message:
-  Fix formatting, remove catch-all for exceptions when opening local repositories.
+  Use rich root formats.
