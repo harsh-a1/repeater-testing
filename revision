@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 148
+revno: 149
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: dulwich
-timestamp: Sat 2008-12-27 15:58:59 +0100
+timestamp: Sun 2008-12-28 16:11:59 +0100
 message:
-  Share more infrastructure between LocalGitDir and RemoteGitDir.
+  Raise proper NoSuchRevision exception.
