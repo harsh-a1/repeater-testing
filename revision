@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 159
+revno: 160
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: dulwich
-timestamp: Mon 2008-12-29 18:57:55 +0100
+timestamp: Tue 2008-12-30 00:56:19 +0100
 message:
-  Fix branch tests.
+  Implement abspath.
