@@ -1,7 +1,9 @@
 ------------------------------------------------------------
-revno: 160
+revno: 161 [merge]
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: dulwich
-timestamp: Tue 2008-12-30 00:56:19 +0100
+timestamp: Tue 2008-12-30 00:59:17 +0100
 message:
-  Implement abspath.
+  merge john.
+------------------------------------------------------------
+Use --include-merged or -n0 to see merged revisions.
