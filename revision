@@ -1,9 +1,7 @@
 ------------------------------------------------------------
-revno: 158 [merge]
+revno: 159
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: dulwich
-timestamp: Mon 2008-12-29 17:33:02 +0100
+timestamp: Mon 2008-12-29 18:57:55 +0100
 message:
-  fetch works \o/
-------------------------------------------------------------
-Use --include-merged or -n0 to see merged revisions.
+  Fix branch tests.
