@@ -1,7 +1,9 @@
 ------------------------------------------------------------
-revno: 156
+revno: 157 [merge]
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: dulwich
-timestamp: Sun 2008-12-28 19:13:18 +0100
+timestamp: Mon 2008-12-29 01:28:56 +0100
 message:
-  Use rich root formats.
+  Fix some bit of fetching.
+------------------------------------------------------------
+Use --include-merged or -n0 to see merged revisions.
