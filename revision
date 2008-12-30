@@ -1,9 +1,7 @@
 ------------------------------------------------------------
-revno: 161 [merge]
+revno: 162
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: dulwich
-timestamp: Tue 2008-12-30 00:59:17 +0100
+timestamp: Tue 2008-12-30 01:05:41 +0100
 message:
-  merge john.
-------------------------------------------------------------
-Use --include-merged or -n0 to see merged revisions.
+  Remove redundant fetch_objects.
