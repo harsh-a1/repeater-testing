@@ -1,7 +1,9 @@
 ------------------------------------------------------------
-revno: 171
+revno: 172 [merge]
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: dulwich
-timestamp: Tue 2008-12-30 18:41:58 +0100
+timestamp: Tue 2008-12-30 23:47:06 +0100
 message:
-  Fix blackbox test.
+  Merge new dulwich.
+------------------------------------------------------------
+Use --include-merged or -n0 to see merged revisions.
