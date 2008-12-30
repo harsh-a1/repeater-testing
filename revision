@@ -1,9 +1,9 @@
 ------------------------------------------------------------
-revno: 168 [merge]
+revno: 169 [merge]
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: dulwich
-timestamp: Tue 2008-12-30 16:58:15 +0100
+timestamp: Tue 2008-12-30 17:34:18 +0100
 message:
-  Merge John.
+  Fix branch cloning.
 ------------------------------------------------------------
 Use --include-merged or -n0 to see merged revisions.
