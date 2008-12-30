@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 165
+revno: 166
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: dulwich
-timestamp: Tue 2008-12-30 01:38:38 +0100
+timestamp: Tue 2008-12-30 13:29:22 +0100
 message:
-  Give a proper error when the ref can not be found.
+  don't reuse client objects.
