@@ -1,3 +1,6 @@
 BZR merge-modified list format 1
 file_id: remote.py-20081226152524-xw12xy2t2d2yc3t3-1
-hash: ea0615067b6deb306bb1b574e31d2baf0a3a7f32
+hash: 262df31a730b660023302dd6f210011c546d23df
+
+file_id: fetch.py-20081224043127-te9yt1pkju883x2a-1
+hash: 0e9a988869b039d99dc488e66d380a9956f82378

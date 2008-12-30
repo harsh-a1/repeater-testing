@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 166
+revno: 167
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: dulwich
-timestamp: Tue 2008-12-30 13:29:22 +0100
+timestamp: Tue 2008-12-30 16:55:51 +0100
 message:
-  don't reuse client objects.
+  Implement fetch_objects properly.
