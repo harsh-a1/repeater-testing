@@ -1,7 +1,9 @@
 ------------------------------------------------------------
-revno: 175
+revno: 176 [merge]
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: dulwich
-timestamp: Tue 2009-01-06 04:52:14 +0100
+timestamp: Tue 2009-01-06 05:22:15 +0100
 message:
-  Add optimized handling when fetching from git to git.
+  Merge new dulwich.
+------------------------------------------------------------
+Use --include-merged or -n0 to see merged revisions.
