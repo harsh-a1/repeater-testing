@@ -1,7 +1,9 @@
 ------------------------------------------------------------
-revno: 184
+revno: 185 [merge]
 committer: Jelmer Vernooij <jelmer@samba.org>
 branch nick: dulwich
-timestamp: Tue 2009-01-13 18:34:45 +0100
+timestamp: Tue 2009-01-13 18:38:53 +0100
 message:
-  Update authors: line.
+  Merge new bzr-foreign.
+------------------------------------------------------------
+Use --include-merged or -n0 to see merged revisions.
