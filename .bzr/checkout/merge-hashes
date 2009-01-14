@@ -1,15 +1,3 @@
 BZR merge-modified list format 1
-file_id: server.py-20081230002209-vl5kk3fd15w1xbot-1
-hash: 11a4b4f8a823b6b602fe730171afe3352f67c2f1
-
-file_id: remote.py-20081226152524-xw12xy2t2d2yc3t3-1
-hash: e613588bc4d1c5c4e7e940bc5ef0bbf94d38fd10
-
-file_id: repository.py-20070325114410-siiehcb1kfkrcugj-4
-hash: 2d7cf806350102913604d3d588ac09ff62c026b6
-
-file_id: server.py-20081216215613-2zv8dbkj9x19gj0s-1
-hash: b901d84959bffdc82ebd6ef2a54d7951cac921d4
-
 file_id: fetch.py-20081224043127-te9yt1pkju883x2a-1
-hash: 4979d4955d70cfa9fc7e6e74c542ba7dfbad61a1
+hash: 53086d0a4083f7249ecfe9eaf554b6eabb3bd6ee
