@@ -1,7 +1,7 @@
 ------------------------------------------------------------
-revno: 189
+revno: 190
 committer: Jelmer Vernooij <jelmer@samba.org>
-branch nick: dulwich
-timestamp: Thu 2009-01-15 00:06:59 +0100
+branch nick: trunk
+timestamp: Tue 2009-01-20 22:37:59 +0100
 message:
-  Fix syntax error.
+  Bless current mapping as v1.
